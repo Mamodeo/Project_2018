@@ -1,0 +1,38 @@
+Indian
+-	Butter Chicken
+-	Tandoori Chicken
+-	Chicken Tikka Masala
+-	Malai Kofta
+-	Naan
+-	Chole 
+-	Rogan Josh
+-	Kaali Daal 
+-	Papdi Chaat
+-	Bhapaa Aloo
+-	Kakori Kebab
+-	Dal Makhani
+-	Alu Gobi 
+-	Samosas
+-	Beef Vindaloo
+-	Aloo Tikki
+-	Matar Paneer(vegetarian)
+-	Kheer(dessert)
+Mexican
+-	Chicken Tostadas
+-	Various Quesadillas
+-	Various Enchiladas
+-	Pinto Bean Salsa Salad
+-	Elote
+-	Mole
+-	Guacamole
+-	Tamales
+-	Empanadas
+-	Masa
+-	Various Tacos
+-	Chicken Tortilla Soup (Sopa Azteca)
+-	Chorizo Sausage
+-	Ricotta Croquettes
+-	Red Chile and Pork Stew (Carne Adobada)
+-	Jalisco-Style Goat Stew (Goat Birria)
+-	Chilaquiles
+-	Chicken and Potato Stew (Guisada al Pollo)

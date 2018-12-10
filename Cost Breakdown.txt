@@ -1,4 +1,8 @@
 Cost analysis
+
+
+Initial Capital Expenses
+
 Equipment
 -	Counter-top 11 qt Food Soup Kettle Warmer: $185 x 2
 -	Counter-Top warmer: $200 x 2
@@ -24,3 +28,26 @@ Furniture and Seating
 Initial Furniture and Seating Cost: $930
 
 Total Initial Buffet Setup Cost: $2600
+
+
+
+Operating Expenses
+
+Labor
+-	Executive Chef: $61,551 Salary 5129.25 3920 6806.33 3000
+-	Head Chef: $47,040 Salary
+-	Sous Chef: $40,838 Salary x 2
+-	Servers/Support Staff: $18,000 Salary x 2
+
+Monthly Labor Cost: $16,155.58
+
+
+Food
+-	Varies depending on weekly food selected and attendance
+-	$3500 - $6500
+-	Basic Spices/Condiments: $200 - $500 
+
+Maximum Monthly Food Cost: $7000
+
+
+Total Monthly Operating Expenses: $23,15558

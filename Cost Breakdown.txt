@@ -1,17 +1,26 @@
 Cost analysis
-
 Equipment
--	Counter-top 11 qt Food Soup Kettle Warmer: $185
--	Counter-Top warmer: $200
+-	Counter-top 11 qt Food Soup Kettle Warmer: $185 x 2
+-	Counter-Top warmer: $200 x 2
 -	Counter-To warmer 3 -tray: $300
 -	Soda Fountain: $100
 -	Cold Food Well: $200
 
+Initial Equipment Cost: $1370
+
+
 Tabletop
 -	Utensils: $100
--	Glass & Plate ware: $100
+-	Glass & Plate ware: $150
 -	Tablecloths: $50
 
+Initial Tabletop cost: $300
+
+
 Furniture and Seating
--	Dining Chairs: $15
--	Dining Tables: $20
+-	Dining Chairs: $15 x 50
+-	Dining Tables: $20x 9
+
+Initial Furniture and Seating Cost: $930
+
+Total Initial Buffet Setup Cost: $2600
